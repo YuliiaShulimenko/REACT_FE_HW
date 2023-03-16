@@ -1,0 +1,26 @@
+.offers{
+    display: flex;
+    background: #62D0DF;
+}
+
+.offers_left{
+    background-color: #62D0DF;
+    padding: 110px 165px;
+    color: #ffffff;
+}
+
+.offers_title{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 27px;
+}
+.offers_text{
+    font-size: 24px;
+    font-style: italic;
+    line-height: 36px;
+}
+
+.offers_img img{
+    display: block;
+}

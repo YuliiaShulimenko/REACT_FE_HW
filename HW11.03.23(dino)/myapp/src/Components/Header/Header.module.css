@@ -1,0 +1,23 @@
+.btn{
+    background: #F9B640;
+border-radius: 50px;
+width: 150px;
+height: 50px;
+border: none;
+font-style: italic;
+font-size: 14px;
+text-align: center;
+color: #FFFFFF;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 17px;
+    padding-right: 163px;
+    background: #F4F9E2;
+}
+
+.header img{
+padding-left: 167px;
+}
