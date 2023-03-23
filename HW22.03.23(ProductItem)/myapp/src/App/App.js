@@ -3,6 +3,8 @@ import ProductItem from "../ProductItem/ProductItem";
 import { useState } from "react";
 import s from "./App.module.css";
 
+
+    // ТИГРАН,просьба объяснить на консультации в пятницу как используя event избавиться от ошибки,когда много кликаешь,что будут карточки пропадать.Через привентдефолт
 function App() {
   const data = [
     { id: 1, name: "Велосипед", price: 1000, count: 1 },
